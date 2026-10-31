@@ -2,9 +2,9 @@
 ### Data Scientist & Data Analyst | Turning Raw Data into Business Value
 
 🌐 **Live Portfolio / Website:** [vishalsinghthakur12.github.io](https://vishalsinghthakur12.github.io)  
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/vishalsingh-thakur-55659b245)
-[![Portfolio](https://shields.io)](https://vishalsinghthakur12.github.io)
-[![Email](https://shields.io)](mailto:vishalsinghthakur12@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsingh-thakur-55659b245)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishalsinghthakur12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishalsinghthakur12@gmail.com)
 
 ---
 
@@ -19,13 +19,13 @@ I bridge the gap between complex data infrastructure and executive decision-maki
 - **The Business Problem:** Performing end-to-end exploratory data analysis (EDA), generating business insights, creating charts, and drafting executive reports manually takes hours for data teams.
 - **The Solution:** Built a production-ready Multi-Agent Data Science system deployed on **Render**. Upon uploading a CSV, a **Profiler Agent** (Pandas) runs statistical analysis, feeding into an **Insight Agent** (Google Gemini API) to generate business ideas. Conditional branching routes execution in parallel to a **RAG Agent** for Q&A and a **Chart Agent** for visualization, culminating in a **Report Agent** that synthesizes final reports.
 - **The Impact:** Automated complex data profiling and executive report generation end-to-end, reducing initial EDA turnarounds from hours to seconds.
-- **Tech Stack:** `Python` | `LangChain` | `Google Gemini API` | `Pandas` | `RAG` | `Render` | `Streamlit`
+- **Tech Stack:** `Python` | `LangChain` | `Google Gemini API` | `Pandas` | `RAG` | `Render`
 
 ### 2. 💳 [FinTrack-AI (ML Finance Tracking Platform)](https://github.com/vishalsinghthakur12) | 🚀 [Live App on Render](https://mlproject3.onrender.com/)
 - **The Business Problem:** Users need real-time, automated insights and predictive machine learning models to track expenses and detect financial anomalies without manual data logging.
 - **The Solution:** Engineered a full-stack Machine Learning application containerized with **Docker** and deployed live on **Render**. Integrated **CatBoost** models for intelligent financial categorization and predictive anomaly detection, presented through an interactive **Streamlit** UI.
 - **The Impact:** Delivered a seamless, containerized production web application with real-time ML inference and clean financial logging.
-- **Tech Stack:** `Python` | `Streamlit` | `CatBoost` | `Docker` | `Render` | `MLOps` | `FastAPI`
+- **Tech Stack:** `Python` | `Streamlit` | `CatBoost` | `Docker` | `Render` | `MLOps`
 
 ### 3. 📊 [End-to-End Data Warehouse & Analytics Pipeline](https://github.com/vishalsinghthakur12)
 - **The Business Problem:** Disparate data sources needed a reliable relational schema and automated pipeline to support real-time executive dashboarding.
@@ -66,20 +66,20 @@ I bridge the gap between complex data infrastructure and executive decision-maki
 ### Tech Stack Icons
 <p align="left">
   <!-- Languages -->
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" alt="SQL" />
   
   <!-- Data Science / ML -->
-  <img src="https://shields.io" alt="Scikit-Learn" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
   
   <!-- Frameworks / Platforms -->
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="Streamlit" />
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
