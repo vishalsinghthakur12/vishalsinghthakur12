@@ -2,6 +2,7 @@
 ### Data Scientist & Data Analyst | Turning Raw Data into Business Value
 
 🌐 **Live Portfolio / Website:** [vishalsinghthakur12.github.io](https://vishalsinghthakur12.github.io)  
+🚀 **Live App Demo (Render):** [mlproject3.onrender.com](https://mlproject3.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsingh-thakur-55659b245)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vishalsinghthakur12)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishalsinghthakur12@gmail.com)
